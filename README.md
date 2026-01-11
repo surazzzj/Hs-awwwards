@@ -11,4 +11,4 @@ ______________________________________
 
 
 Live Demo 🚀
-https://hsawwwards.netlify.app/
+https://hs-awwwards.netlify.app/
