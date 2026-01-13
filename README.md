@@ -1,4 +1,4 @@
-# Hs-awwwards 
+# Hs-awwwards website clone
 ______________________________________
 
 I developed a high-fidelity clone of the HS Awwwards website, highlighting premium hotels, villas, and residences with a luxurious and immersive design.
