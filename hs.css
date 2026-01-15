@@ -1871,7 +1871,7 @@ button i {
 /* ----------------------------------------responsive portion---------------------------------- */
 
 
-@media (max-width:1440px) {
+@media (max-width:1600px) {
     .main #text h1{
         font-size: 10rem;
     }
